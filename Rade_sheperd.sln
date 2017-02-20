@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rade_sheperd.Plugins", "Rade_sheperd.Plugins.csproj", "{80E79914-9B1D-CC39-7C65-2CA5C60AEBC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rade_sheperd", "Rade_sheperd.csproj", "{67DAB3FB-2267-9347-A2CF-A7ABCCE61C1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rade_sheperd.Editor.Plugins", "Rade_sheperd.Editor.Plugins.csproj", "{6D6374AA-5B6B-6A3F-DA6C-5E6B3FCD7315}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80E79914-9B1D-CC39-7C65-2CA5C60AEBC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E79914-9B1D-CC39-7C65-2CA5C60AEBC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E79914-9B1D-CC39-7C65-2CA5C60AEBC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E79914-9B1D-CC39-7C65-2CA5C60AEBC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67DAB3FB-2267-9347-A2CF-A7ABCCE61C1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67DAB3FB-2267-9347-A2CF-A7ABCCE61C1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67DAB3FB-2267-9347-A2CF-A7ABCCE61C1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67DAB3FB-2267-9347-A2CF-A7ABCCE61C1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D6374AA-5B6B-6A3F-DA6C-5E6B3FCD7315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D6374AA-5B6B-6A3F-DA6C-5E6B3FCD7315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D6374AA-5B6B-6A3F-DA6C-5E6B3FCD7315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D6374AA-5B6B-6A3F-DA6C-5E6B3FCD7315}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,246 @@
+fileFormatVersion: 2
+guid: 70b6733cb84a422459876ef8cf1bd2d7
+timeCreated: 1484903188
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000003000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000100000001100000012000000130000001400000015000000160000001700000018000000190000001a0000001b0000001c0000001d0000001e0000001f000000200000002100000022000000230000002400000025000000260000002700000028000000290000002a0000002b0000002c0000002d0000002e0000002f000000300000003100000032000000330000003400000035000000360000003700000038000000390000003a0000003b0000003c0000003d0000003e0000003f000000400000004100000042000000430000004400000045000000
+  assetHash:
+    serializedVersion: 2
+    Hash: ea1e96f64b509d74653c23aaada3cdb1
+  longitude: -122.47440570004538
+  latitude: 37.817214519394234
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -818.93036, y: 540.881, z: -1199.481}
+      lookAt: {x: -138.91245, y: -78.61429, z: 60.06831}
+      up: {x: 0.18869403, y: 0.91773695, z: 0.34950465}
+      fov: 30
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: cablemain1
+    100002: cablemain1 1
+    100004: cables
+    100006: cables 1
+    100008: cables#1
+    100010: cables#1 1
+    100012: CABLES2
+    100014: CABLES2 1
+    100016: //RootNode
+    100018: Google Earth Terrain
+    100020: Group 10
+    100022: Group 12
+    100024: Group 6
+    100026: Group 8
+    100028: maincable2
+    100030: maincable2 1
+    100032: maincable3
+    100034: maincable3 1
+    100036: tower
+    100038: truss
+    100040: truss 1
+    100042: truss 10
+    100044: truss 11
+    100046: truss 12
+    100048: truss 13
+    100050: truss 2
+    100052: truss 3
+    100054: truss 4
+    100056: truss 5
+    100058: truss 6
+    100060: truss 7
+    100062: truss 8
+    100064: truss 9
+    100066: truss#1
+    400000: cablemain1
+    400002: cablemain1 1
+    400004: cables
+    400006: cables 1
+    400008: cables#1
+    400010: cables#1 1
+    400012: CABLES2
+    400014: CABLES2 1
+    400016: //RootNode
+    400018: Google Earth Terrain
+    400020: Group 10
+    400022: Group 12
+    400024: Group 6
+    400026: Group 8
+    400028: maincable2
+    400030: maincable2 1
+    400032: maincable3
+    400034: maincable3 1
+    400036: tower
+    400038: truss
+    400040: truss 1
+    400042: truss 10
+    400044: truss 11
+    400046: truss 12
+    400048: truss 13
+    400050: truss 2
+    400052: truss 3
+    400054: truss 4
+    400056: truss 5
+    400058: truss 6
+    400060: truss 7
+    400062: truss 8
+    400064: truss 9
+    400066: truss#1
+    2300000: cablemain1
+    2300002: cablemain1 1
+    2300004: cables
+    2300006: cables 1
+    2300008: cables#1
+    2300010: cables#1 1
+    2300012: CABLES2
+    2300014: CABLES2 1
+    2300016: //RootNode
+    2300018: Google Earth Terrain
+    2300020: Group 10
+    2300022: Group 12
+    2300024: Group 6
+    2300026: Group 8
+    2300028: maincable2
+    2300030: maincable2 1
+    2300032: maincable3
+    2300034: maincable3 1
+    2300036: tower
+    2300038: truss
+    2300040: truss 1
+    2300042: truss 10
+    2300044: truss 11
+    2300046: truss 12
+    2300048: truss 13
+    2300050: truss 2
+    2300052: truss 3
+    2300054: truss 4
+    2300056: truss 5
+    2300058: truss 6
+    2300060: truss 7
+    2300062: truss 8
+    2300064: truss 9
+    2300066: truss#1
+    3300000: cablemain1
+    3300002: cablemain1 1
+    3300004: cables
+    3300006: cables 1
+    3300008: cables#1
+    3300010: cables#1 1
+    3300012: CABLES2
+    3300014: CABLES2 1
+    3300016: //RootNode
+    3300018: Google Earth Terrain
+    3300020: Group 10
+    3300022: Group 12
+    3300024: Group 6
+    3300026: Group 8
+    3300028: maincable2
+    3300030: maincable2 1
+    3300032: maincable3
+    3300034: maincable3 1
+    3300036: tower
+    3300038: truss
+    3300040: truss 1
+    3300042: truss 10
+    3300044: truss 11
+    3300046: truss 12
+    3300048: truss 13
+    3300050: truss 2
+    3300052: truss 3
+    3300054: truss 4
+    3300056: truss 5
+    3300058: truss 6
+    3300060: truss 7
+    3300062: truss 8
+    3300064: truss 9
+    3300066: truss#1
+    4300000: Mesh GoldenGateBridge
+    4300002: Mesh Google Earth Terrain
+    4300004: Mesh Group 6
+    4300006: Mesh Group 8
+    4300008: Mesh Group 10
+    4300010: Mesh Group 12
+    4300012: Mesh truss#1
+    4300014: Mesh truss
+    4300016: Mesh maincable3
+    4300018: Mesh maincable2
+    4300020: Mesh cables#1
+    4300022: Mesh CABLES2
+    4300024: Mesh cables
+    4300026: Mesh cablemain1
+    4300028: Mesh tower
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

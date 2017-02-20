@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: e86127382993c9c4bbb9f581ba9d206e
+timeCreated: 1486133841
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: attache_propulseurs
+    100002: Camera
+    100004: drone
+    100006: //RootNode
+    100008: join
+    100010: Lamp
+    100012: mat
+    100014: moteur
+    100016: piston
+    100018: piston2
+    100020: propulseurs
+    100022: propulseurs_MeshPart0
+    100024: propulseurs_MeshPart1
+    100026: propulseurs_MeshPart2
+    100028: propulseurs_MeshPart3
+    100030: propulseurs_MeshPart4
+    100032: Spot
+    100034: tape_top
+    100036: tappe2
+    100038: tappe_bottom
+    100040: Tige2
+    100042: Tige3
+    100044: tiges
+    100046: tube
+    400000: attache_propulseurs
+    400002: Camera
+    400004: drone
+    400006: //RootNode
+    400008: join
+    400010: Lamp
+    400012: mat
+    400014: moteur
+    400016: piston
+    400018: piston2
+    400020: propulseurs
+    400022: propulseurs_MeshPart0
+    400024: propulseurs_MeshPart1
+    400026: propulseurs_MeshPart2
+    400028: propulseurs_MeshPart3
+    400030: propulseurs_MeshPart4
+    400032: Spot
+    400034: tape_top
+    400036: tappe2
+    400038: tappe_bottom
+    400040: Tige2
+    400042: Tige3
+    400044: tiges
+    400046: tube
+    2300000: attache_propulseurs
+    2300002: join
+    2300004: mat
+    2300006: moteur
+    2300008: piston
+    2300010: piston2
+    2300012: propulseurs_MeshPart0
+    2300014: propulseurs_MeshPart1
+    2300016: propulseurs_MeshPart2
+    2300018: propulseurs_MeshPart3
+    2300020: propulseurs_MeshPart4
+    2300022: tape_top
+    2300024: tappe2
+    2300026: tappe_bottom
+    2300028: Tige2
+    2300030: Tige3
+    2300032: tiges
+    2300034: tube
+    3300000: attache_propulseurs
+    3300002: join
+    3300004: mat
+    3300006: moteur
+    3300008: piston
+    3300010: piston2
+    3300012: propulseurs_MeshPart0
+    3300014: propulseurs_MeshPart1
+    3300016: propulseurs_MeshPart2
+    3300018: propulseurs_MeshPart3
+    3300020: propulseurs_MeshPart4
+    3300022: tape_top
+    3300024: tappe2
+    3300026: tappe_bottom
+    3300028: Tige2
+    3300030: Tige3
+    3300032: tiges
+    3300034: tube
+    4300000: tube
+    4300002: tiges
+    4300004: tappe_bottom
+    4300006: tappe2
+    4300008: tape_top
+    4300010: join
+    4300012: propulseurs_MeshPart0
+    4300014: propulseurs_MeshPart1
+    4300016: propulseurs_MeshPart2
+    4300018: propulseurs_MeshPart3
+    4300020: propulseurs_MeshPart4
+    4300022: piston
+    4300024: piston2
+    4300026: moteur
+    4300028: mat
+    4300030: attache_propulseurs
+    4300032: Tige3
+    4300034: Tige2
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

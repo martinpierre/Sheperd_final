@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/paysage_sheperde.unity
+  isLoaded: 1
+  isActive: 1
