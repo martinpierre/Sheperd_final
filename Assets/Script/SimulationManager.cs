@@ -51,8 +51,10 @@ public class SimulationManager : MonoBehaviour
 				sail[json.Sailboat.name].name = json.Sailboat.name;
 
 			}
-			sail[json.Sailboat.name].transform.position = new Vector3((float)json.Sailboat.x, (float)0.0, (float)json.Sailboat.y);
-			sail[json.Sailboat.name].transform.eulerAngles = new Vector3 (toDeg((float)json.Sailboat.roll),toDeg((float)json.Sailboat.yaw), toDeg((float)json.Sailboat.pitch));
+			sail[json.Sailboat.name].transform.position = new Vector3(-(float)json.Sailboat.y, (float)0.0, (float)json.Sailboat.x);
+			sail[json.Sailboat.name].transform.eulerAngles = new Vector3 (toDeg((float)json.Sailboat.pitch),-toDeg((float)json.Sailboat.yaw), toDeg((float)json.Sailboat.roll));
+			sail[json.Sailboat.name].transform.Find("Vagabond").Find("SailMain").eulerAngles = new Vector3 (toDeg((float)json.Sailboat.pitch),-toDeg((float)json.Sailboat.yaw)- toDeg((float)json.Sailboat.sailYaw), toDeg((float)json.Sailboat.roll));
+			//sail[json.Sailboat.name].transform.Find("Vagabond").Find("Rudder").eulerAngles = new Vector3 (toDeg((float)json.Sailboat.pitch), toDeg((float)json.Sailboat.rudderYaw), toDeg((float)json.Sailboat.roll));
 		}
 		if(json.Buoy.name != null){
 			if(!buoy.ContainsKey(json.Buoy.name)){
@@ -60,7 +62,7 @@ public class SimulationManager : MonoBehaviour
 				buoy[json.Buoy.name] = Instantiate(Resources.Load("Buoy")) as GameObject;
 				buoy[json.Buoy.name].name = json.Buoy.name;
 
-			}
+			}	
 			buoy[json.Buoy.name].transform.position = new Vector3((float)json.Buoy.x, (float)json.Buoy.z, (float)json.Buoy.y);
 		}
 		

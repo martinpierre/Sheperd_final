@@ -10,4 +10,5 @@ public class SailboatSerial{
     public float roll;
     public float pitch;
     public float sailYaw;
+	//public float rudderYaw;
 }
