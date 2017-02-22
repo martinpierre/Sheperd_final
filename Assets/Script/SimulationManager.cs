@@ -30,13 +30,13 @@ public class SimulationManager : MonoBehaviour
 	// Update is called once per frame
 	void Update ()
 	{
-		lock (_queueLock)
-		{
+		//lock (_queueLock)
+		//{
 			while (TaskQueue.Count > 0) {
 				string data=TaskQueue.Dequeue();
 				updateEnv(data);
 			}
-		}
+		//}
 	}
 
 	void updateEnv(string data)
